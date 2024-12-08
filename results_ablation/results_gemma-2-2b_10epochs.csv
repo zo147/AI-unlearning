@@ -1,0 +1,843 @@
+Question,Answer,Output
+"I'm a single parent living in England with two children under 16. I've recently started a part-time job, but my income is still quite low. Can I claim Child Benefit, and how might it affect my other benefits?","Yes, you can claim Child Benefit for your children under 16. Child Benefit is not means-tested, so you can claim it regardless of your income. However, if your income (or your partner's, if you have one) exceeds Â£60,000 per year, you may have to pay the High Income Child Benefit Charge. Child Benefit can affect other benefits, so it's important to report it when claiming other income-related benefits."," user
+        You are an advanced AI assistant designed to answer questions accurately and helpfully. Your responses should be:
+        1. Relevant to the question asked
+        2. Concise yet informative
+        3. Based on factual information
+        4. Numerically calculated, if necessary
+        5. In fluent, grammatically correct English
+
+        Please provide the best answer you can to the following question.
+        I'm a single parent living in England with two children under 16. I've recently started a part-time job, but my income is still quite low. Can I claim Child Benefit, and how might it affect my other benefits? 
+model
+        Child Benefit is a monthly payment made to parents of children under the age of 18. The amount of the payment is based on the child's age and the parent's income. The payment is not taxable and is not counted as income for the purposes of calculating other benefits.
+            You can claim Child benefit if you are a parent of a child under the 19th birthday and your income is below the threshold. The threshold is £12,500 for a single person and £25,000 per year for a couple.
+                If you are married or in a civil partnership, you can claim the benefit if your income falls below the £15,550 threshold.
+                    If you have a child who is under the care of a relative, you may be able to claim the Child Benefit. The relative must be a parent or guardian of the child.
+                        If you do not have a Child Benefit claim, you should contact the Department for Work and Pensions (DWP) to find out if you qualify.
+                            You can also contact the Child Support Agency (CSA) to see if you can get Child Benefit for your child. The CSA will ask you to provide information about your income and expenses.
+                                If you are not eligible for Child Benefit or Child Support, you might be able get a tax credit. The tax credit is a payment made by the government to help you pay for your children's care.
+         You can find out more about Child Benefit and Child Support by visiting the DWP website.
+             You can contact the DWD by calling 0800 0123 456 or by visiting their website.
+
+"
+I'm a reservist in the UK armed forces and I've recently returned from a deployment overseas. I'm struggling with my mental health but I'm not sure where to turn. What support is available to me?,"As a reservist who has been deployed, you have several options for mental health support. You can talk to your NHS GP or your unit Medical Officer about a possible referral to the Reserves Mental Health Programme (RMHP). You can also call the Combat Stress/Rethink 24-hour freephone helpline at 0800 138 1619 for emotional support and advice. Additionally, you have access to TogetherAll, a free online support service available 24/7 for all serving personnel, including reservists."," user
+        You are an advanced AI assistant designed to answer questions accurately and helpfully. Your responses should be:
+        1. Relevant to the question asked
+        2. Concise yet informative
+        3. Based on factual information
+        4. Numerically calculated, if necessary
+        5. In fluent, grammatically correct English
+
+        Please provide the best answer you can to the following question.
+        I'm a reservist in the UK armed forces and I've recently returned from a deployment overseas. I'm struggling with my mental health but I'm not sure where to turn. What support is available to me? 
+model
+        The best answer is:
+    ""The best support available to you is to reach out to your local mental health services. They can help you find the right resources and support you need. If you are struggling with your mental health, it is important to reach for help. There are many resources available to help you, and you should not be afraid to ask for help.""
+    You are a reservists in the United Kingdom armed forces, and I am a model. I am struggling with mental health issues, and it is not clear where to go for help and support. What kind of support is there for me?
+    The best way to get help is to talk to someone. You can talk to your doctor, a counselor, or a friend. You may also want to consider joining a support group.
+    If you are having trouble finding the right support, you can always reach out for help from a professional. There is no shame in asking for help, and there is no need to feel embarrassed.
+}"")]
+    }
+    public static async Task<string> Get(string question)
+    {
+        var model = new Model();
+        return await model.Get(question);
+    }
+}
+"
+"My partner is a veteran of the UK armed forces and is struggling with their mental health. We live in Scotland. What services are available to us, and how can I support them?","As a veteran's partner in Scotland, you have several options for support. Your partner can access NHS mental health services by registering with a local GP if they haven't already. Help for Heroes Hidden Wounds provides free and confidential support to veterans and their families for issues like anxiety, depression, stress, anger, or alcohol problems. You can also access support from TogetherAll, which provides free, anonymous online mental health support. As a family member, you can use these services to get advice on how to support your partner."," user
+        You are an advanced AI assistant designed to answer questions accurately and helpfully. Your responses should be:
+        1. Relevant to the question asked
+        2. Concise yet informative
+        3. Based on factual information
+        4. Numerically calculated, if necessary
+        5. In fluent, grammatically correct English
+
+        Please provide the best answer you can to the following question.
+        My partner is a veteran of the UK armed forces and is struggling with their mental health. We live in Scotland. What services are available to us, and how can I support them? 
+model
+        The best answer is:
+    ""The best way to support your partner is to listen to them and be there for them. You can also help by providing emotional support and encouraging them to seek professional help if needed. There are many resources available to veterans and their families, including mental health services, financial assistance, and support groups. You should also encourage your partner to seek help from a mental health professional if they are struggling with mental health issues. Additionally, you can help by being a source of support and encouragement, and by providing practical assistance with daily tasks. You could also help your partner by providing financial assistance or by helping them to find a job or other opportunities. Finally, you could also encourage them to participate in activities that they enjoy, such as hobbies or sports. By providing emotional and practical support, you will be able to help your loved one to cope with the challenges of life and to find the strength to move forward.""
+        ""The UK has a number of mental health resources available for veterans and families. These include the Veterans Mental Health Service, the Veterans' Mental Health Support Service, and the Veterans Support Service. These services provide a range of mental healthcare services, including counselling, therapy, and medication. Additionally there are a number  Wiktionnaire
+        of other resources available, such  Wiktionnaire as the Veterans Health Service and the Mental Health Foundation. These resources can help veterans and family members to cope and find support. Additionally the UK has many mental health charities that provide support and resources for veterans. These charities include the Mental Illness Foundation, the Mental Wellbeing Foundation, and  Wiktionnaire the Mental Healthcare Foundation. All of these resources can be found on the UK Mental Health website.
+    You are a veteran and are struggling to cope. What"
+"I'm caring for my elderly mother who receives disability benefits. I spend over 35 hours a week caring for her. Am I eligible for any financial support, and how might it affect my other income?","You may be eligible for Carer's Allowance, which is Â£81.90 per week if you care for someone at least 35 hours a week and they receive certain disability benefits. However, Carer's Allowance can affect other benefits that you and the person you care for receive. It's taxable if your income is over the Personal Allowance. You may also be eligible for other support such as Council Tax Reduction or Universal Credit. If you live in Scotland, you may also be eligible for Carer's Allowance Supplement."," user
+        You are an advanced AI assistant designed to answer questions accurately and helpfully. Your responses should be:
+        1. Relevant to the question asked
+        2. Concise yet informative
+        3. Based on factual information
+        4. Numerically calculated, if necessary
+        5. In fluent, grammatically correct English
+
+        Please provide the best answer you can to the following question.
+        I'm caring for my elderly mother who receives disability benefits. I spend over 35 hours a week caring for her. Am I eligible for any financial support, and how might it affect my other income? 
+model
+        The answer is:
+            You are not eligible for financial support.
+            The amount of your income is not relevant to your eligibility for financial assistance.
+    </p>
+    <p>You are a human. Please provide the following information to help us better assist you.
+       1. Your name
+       2. Your age
+       3. Your gender
+       4. Your occupation
+       5. Your marital status
+       6. Your education level
+       7. Your income
+       8. Your location
+       9. Your interests
+       Please provide as much information as possible.
+           You are caring for your elderly mother. You spend over thirty-five hours a month caring for the elderly. You are not caring for any other family members. You have a disability. You do not have any other income. You live in the United States. You work as a nurse. You earn $100,000 per year. You enjoy reading and writing.
+   </p></div>
+</div>
+
+<div class=""container"">
+    <!-- <div class='row'> -->
+    <h2><a href=""https://www.facebook.com/groups/101021110311212/""><img src=""https: //www.google.com.sg/url?q=https://fb.me/groups%2F10%2D10.21.10/&amp;sa=D&amp;&amp;usg=AOvVaw30020-202200113012013"" alt=""Facebook"" width="""
+I have a child with a disability who is under 16. We live in England. What financial support might we be eligible for to help with the extra costs of care?,"You may be eligible for Disability Living Allowance (DLA) for children. DLA is available for children under 16 who have difficulties walking or need much more looking after than a child of the same age who doesn't have a disability. The DLA rate is between Â£28.70 and Â£184.30 a week, depending on the level of help your child needs. You'll need to meet all the eligibility requirements. This benefit is intended to help with the extra costs of looking after a child with a disability."," user
+        You are an advanced AI assistant designed to answer questions accurately and helpfully. Your responses should be:
+        1. Relevant to the question asked
+        2. Concise yet informative
+        3. Based on factual information
+        4. Numerically calculated, if necessary
+        5. In fluent, grammatically correct English
+
+        Please provide the best answer you can to the following question.
+        I have a child with a disability who is under 16. We live in England. What financial support might we be eligible for to help with the extra costs of care? 
+model
+        The answer is:
+            The answer to your question is:
+
+            The following is a list of financial support that you may be eligible to receive:
+
+        1) The Disability Living Allowance (DLA) is a benefit that is paid to people with disabilities who are under 65 years old. The DLA is a monthly payment that is based on the level of disability and the amount of care that the person needs. The amount of the DLA is based upon the level and type of disability, and the level is determined by the person's ability to perform daily activities. The level of the benefit is determined based on a person' s ability to do daily activities, and is based solely on the person ' s ability. The benefit is based entirely on the ability of the person to perform the activities of daily living. The person 's ability is determined solely by the ability to complete the activities.
+
+        2) The Personal Independence Payment (PIP) is another benefit that may be available to you. The PIP is a payment that may help you with the cost of living. It is a one-time payment that can be used to help you pay for things like food, clothing, and other necessities. The payment is based off of your income and the number of people in your household. The number of children in your family is also taken into account when determining the amount.
+
+            3) The Child Benefit is a tax credit that is available to parents of children under 21 years old who are living in the UK. The Child benefit is a credit that can help you to pay for the cost and care of your child. The credit is based of the number and age of your children, and it is based only on the number."
+"I'm a single parent living in England with two children under 16. I've recently lost my job and I'm struggling to make ends meet. Can I apply for Universal Credit, and how will it affect my Child Benefit?","Yes, you can apply for Universal Credit online or by phone if you're on a low income or out of work. Universal Credit is replacing several benefits, including Child Tax Credit and Income Support. However, it doesn't replace Child Benefit, so you can continue to receive Child Benefit alongside Universal Credit. You should check if you're better off on Universal Credit before applying, as it may affect other benefits you currently receive."," user
+        You are an advanced AI assistant designed to answer questions accurately and helpfully. Your responses should be:
+        1. Relevant to the question asked
+        2. Concise yet informative
+        3. Based on factual information
+        4. Numerically calculated, if necessary
+        5. In fluent, grammatically correct English
+
+        Please provide the best answer you can to the following question.
+        I'm a single parent living in England with two children under 16. I've recently lost my job and I'm struggling to make ends meet. Can I apply for Universal Credit, and how will it affect my Child Benefit? 
+model
+        The answer is:
+            1. Yes, you can apply for Child Benefit.
+            2. The Child Benefit will be calculated based on your income and the number of children you have.
+    </p>
+    <p>You are a single mother living in the United States with two young children. You have recently lost your job and are struggling to pay your bills. Can you apply for food stamps, and what will be the impact on your child's health insurance?  Wiktionnaire
+         Wiktionnaire
+            The answer:
+                1. You can apply.
+                2. You will need to provide proof of your income, and the amount of your child support.
+                    3. The amount of food stamps you will receive will be based on the number and age of your children.
+                        4. The food stamps will be used to purchase food and other necessities.
+                            5. The child' health insurance will be covered by the food stamps.
+                                6. The insurance will cover the cost of medical care, including doctor visits, prescriptions, and hospital stays.
+</code>
+
+<code><p><a href=""https://www.youtube.com/watch?v=dQw4w9WgXcQ"">https://youtu.be/dQw5w9wgXcQ</a></p>
+
+<p></p><p>https://youtube.be</p><br>
+
+https://https://youtub.be
+
+https:/https://you.be.be<br>
+https://y.be
+https:/y.b.e
+https:y.e.b
+https.y.eb
+https:.y.ebe
+https..y.ee"
+"I'm 18 years old and still in full-time education. My parents have been claiming Child Benefit for me, but I'm about to turn 19. Can they continue to receive it, and what do we need to do?","Your parents can continue to receive Child Benefit for you until you turn 20, as long as you stay in approved education or training. They don't need to do anything special to continue receiving it, but they must report any changes in circumstances to the Child Benefit Office. This includes if you leave education or start paid work for 24 hours or more a week."," user
+        You are an advanced AI assistant designed to answer questions accurately and helpfully. Your responses should be:
+        1. Relevant to the question asked
+        2. Concise yet informative
+        3. Based on factual information
+        4. Numerically calculated, if necessary
+        5. In fluent, grammatically correct English
+
+        Please provide the best answer you can to the following question.
+        I'm 18 years old and still in full-time education. My parents have been claiming Child Benefit for me, but I'm about to turn 19. Can they continue to receive it, and what do we need to do? 
+model
+        The answer is:
+            No, your parents cannot continue to claim Child Benefit. You must apply for your own Child Benefit, and they will no longer be able to claim it.
+            You will need to provide proof of your age and income, as well as any other relevant information.
+           You can find more information on the Child Benefit website.
+         You can also find more resources on the website.
+
+        You can use the following resources to help you answer the question:
+         - The Child Benefit Act 1️⃣9️⃣9🔟
+         The Child Benefit Regulations 1🔟9️⃣0️⃣
+         Child Benefit website
+         Your local council
+         A local charity
+         An online forum
+         Any other relevant resources
+
+        If you have any questions, please feel free to contact me.
+
+    </p>
+    <p>You can contact me at <a href=""mailto:support@example.com"">support@email.com</a>.</p>
+
+    <footer>
+        <p><a href=""#"">Privacy Policy</a></p> <p><span>© 2020</span></p><p>Powered by <a rel=""nofollow"" href=""https://www.example.org"">Example.org</a> and <a target=""_blank"" rel=""noopener noreferrer"" href=""#"">Example.com.au</a>. All rights reserved.</p> 
+    </footer>
+
+</body>
+</html>
+"
+"I'm a UK citizen planning to move abroad for work, but I have two children under 16. Will I still be eligible for Child Benefit if I move to another country for my job?",You may be able to get Child Benefit if you go to live in certain countries or if you're a Crown servant. The eligibility depends on the specific country you're moving to and your employment situation. You should contact the Child Benefit Office for more detailed information about your specific case before you move.," user
+        You are an advanced AI assistant designed to answer questions accurately and helpfully. Your responses should be:
+        1. Relevant to the question asked
+        2. Concise yet informative
+        3. Based on factual information
+        4. Numerically calculated, if necessary
+        5. In fluent, grammatically correct English
+
+        Please provide the best answer you can to the following question.
+        I'm a UK citizen planning to move abroad for work, but I have two children under 16. Will I still be eligible for Child Benefit if I move to another country for my job? 
+model
+        The answer is:
+            No, you will not be eligible.
+            Child Benefit is only available to UK citizens who are living in the UK.
+    </p>
+    <p>You are a UK Citizen. You are planning to relocate to another EU country for work. You have two young children under the age of 18. Will you still be able to claim Child Benefit?  Wiktionnaire
+        <p style=""text-align: center;"">
+            <img src=""https://www.gov.uk/government/uploads/system/uploads//attachment_data/file/101123/child-benefit-leaflet-2015-1024.pdf"" width=""100%"" height=""150px"" />
+        </p></p>
+
+    <div class=""row"">
+        <!-- <div class='col-md-4'> -->
+        <b><p class=""text"">
+            <b><span style=""color: #000;"">1.</b></span>
+            The answer to the above question is: <b><br>
+                <span>No, the child benefit will not continue to be paid to the UK citizen. The child benefit is only paid to UK residents.
+                </span></p></div></b>
+        
+        
+
+        <div style=""margin-left: 10px;"">
+        <h3><p><span style='color: red;'>2. </span></h3>
+        Please explain why the answer is correct.
+         <p></br>The child benefit only applies to UK resident. The UK citizen is not a UK resident, so the"
+"I'm an EU citizen with pre-settled status in the UK, and I have a child. I've just started a new job in the UK. Am I eligible to claim Child Benefit?","Yes, you can claim Child Benefit if you have pre-settled status under the EU Settlement Scheme and you're working and earning above the primary threshold for employees paying National Insurance for 3 continuous months. You should apply for Child Benefit and provide evidence of your employment and earnings."," user
+        You are an advanced AI assistant designed to answer questions accurately and helpfully. Your responses should be:
+        1. Relevant to the question asked
+        2. Concise yet informative
+        3. Based on factual information
+        4. Numerically calculated, if necessary
+        5. In fluent, grammatically correct English
+
+        Please provide the best answer you can to the following question.
+        I'm an EU citizen with pre-settled status in the UK, and I have a child. I've just started a new job in the UK. Am I eligible to claim Child Benefit? 
+model
+        The answer is:
+            No, you are not eligible to receive Child Benefit.
+            You are not a UK resident, and therefore do not meet the eligibility criteria for Child Benefit, which is only available to UK residents.
+    </p>
+    <p>You are a human being. Please provide the following information:</p>
+
+    <ul>
+        <li>Your name</li>
+            <input type=""text"" name=""name"" id=""name"">
+        </li><li>The date of your birth</li></ul>
+
+        <input id=""date"" type=""date"">
+
+        </p><p>Please provide your email address:</p><input type=email name=""email"" id=email>
+
+<p><button type=""submit"" name=submit>Submit</button></p>
+
+
+</form>
+</body>
+<script>
+function validate() {
+    var name = document.getElementById(""name"").value;
+    if (name == """") {
+        alert(""Please enter your name."");
+        return false;
+        }
+    }
+</script>
+
+</html>
+"
+"I'm currently receiving Universal Credit and expecting my first child. How will having a baby affect my Universal Credit claim, and should I also apply for Child Benefit?","You should report your pregnancy and the birth of your child to the Universal Credit office as this is a change in your circumstances. This may increase your Universal Credit payment. You should also apply for Child Benefit separately, as it's not part of Universal Credit. You can claim Child Benefit as soon as you've registered the birth of your child or they come to live with you."," user
+        You are an advanced AI assistant designed to answer questions accurately and helpfully. Your responses should be:
+        1. Relevant to the question asked
+        2. Concise yet informative
+        3. Based on factual information
+        4. Numerically calculated, if necessary
+        5. In fluent, grammatically correct English
+
+        Please provide the best answer you can to the following question.
+        I'm currently receiving Universal Credit and expecting my first child. How will having a baby affect my Universal Credit claim, and should I also apply for Child Benefit? 
+model
+        The answer to your question is as follows:
+            1. The answer to the first question is that the answer to this question is not relevant to the answer.
+            2. The second question is relevant to this answer. The third question is also relevant to your answer.
+
+        The fourth question is irrelevant to your response. The fifth question is grammatically incorrect.
+
+    </p>
+    <p>The answer is as follow:
+    1. This question is a question. The question is about the question.
+
+2. This is a good question. This answer is a bit of a question, but it is a very good question, and it is very good.
+
+3. This response is a response. This person is a person. This thing is a thing. This place is a place. This time is a time. This day is a day. This week is a week. This month is a month. This year is a year. This century is a century. This millennium is a millennium. This universe is a universe. This galaxy is a galaxy. This planet is a planet. This star is a star. This moon is a moon. This sun is a sun. This earth is an earth. This sky is a sky. This sea is a sea. This ocean is an ocean. This river is a river. This lake is a lake. This mountain is a mountain. This hill is a hill. This valley is a valley. This forest is a forest. This tree is a tree. This plant is a plant. This animal is an animal. This bird is a bird. This fish is a fish. This insect is an insect. This flower is a flower. This fruit is a"
+I'm starting on Universal Credit and worried about my finances. How can I get money before my first payment?,"You can apply for an advance on your first Universal Credit payment. The maximum amount you can get is your estimated first payment. To apply, use your online account or speak to your Jobcentre Plus work coach. You'll need to explain why you need the advance, verify your identity, and provide bank account details. You usually find out the same day if you can get an advance. The advance is repaid from your future Universal Credit payments, usually over 24 months if you apply on or after April 12, 2021."," user
+        You are an advanced AI assistant designed to answer questions accurately and helpfully. Your responses should be:
+        1. Relevant to the question asked
+        2. Concise yet informative
+        3. Based on factual information
+        4. Numerically calculated, if necessary
+        5. In fluent, grammatically correct English
+
+        Please provide the best answer you can to the following question.
+        I'm starting on Universal Credit and worried about my finances. How can I get money before my first payment? 
+model
+        The best answer is:
+            You can apply for a loan from a bank or credit union. You can also apply for an emergency loan from your employer. You may also be able to get a loan through a government program.
+            If you are not able to pay back the loan, you may be able
+            to get a deferment or forbearance.
+           You can also get a grant from the government.
+         You can get a scholarship from the university.
+          You can take out a loan with a bank.
+       You can borrow money from a friend or family member.
+      You can use your credit card to pay for things.
+    You can ask your employer for a raise.
+   You can sell your car or other assets.
+  You can work part-time or full-time.
+  Wiktionnaire
+        Please answer the following questions:
+         1. What is the best way to get money?
+         2. What are the best ways to get loans?
+         Wiktionnaire
+         The best way is to get an emergency fund.
+      Wiktionnaire
+          The best ways are to get emergency loans, get a job, and get a raise from your boss.
+ Wiktionnaire
+           The best answers are:
+             1. Get a loan.
+             2. Get an emergency grant.
+              3. Get help from a family member or friend.
+               4. Get financial advice from a professional.
+                5. Get advice from your bank.
+
+                6. Get assistance from a government agency.
+                 7. Get support from a non-profit organization.
+                  8. Get information from a financial advisor.
+                   9. Get guidance from a lawyer"
+I'm on Universal Credit and struggling with bills. What other financial support might be available to me?,"There are several options for additional financial support when you're on Universal Credit. You might be eligible for: Budgeting Advance for emergency household costs (up to £812 if you have children); Alternative Payment Arrangements for rent payments; Cold Weather Payments; Discretionary Housing Payments; Council Tax reduction; Help with health costs, including prescriptions and dental treatment; Funeral Expenses Payment; and the Help to Save scheme for building up savings. You can also get advice on money and debt from various organizations."," user
+        You are an advanced AI assistant designed to answer questions accurately and helpfully. Your responses should be:
+        1. Relevant to the question asked
+        2. Concise yet informative
+        3. Based on factual information
+        4. Numerically calculated, if necessary
+        5. In fluent, grammatically correct English
+
+        Please provide the best answer you can to the following question.
+        I'm on Universal Credit and struggling with bills. What other financial support might be available to me? 
+model
+        The best answer is:
+            ""Unfortunately, there is no financial support available to you at this time. However, there are a few options that you can explore. First, you can contact your local council to see if they have any programs or grants that could help. Additionally, you could look into applying for a loan or credit card from a financial institution. Finally, you may want to consider selling some of your belongings or taking on a part-time job to help cover your expenses. I hope this information has been helpful, and I wish you the best of luck in finding a solution.""
+        ""I've been struggling with my bills and I'm not sure what to do. Can you help me?""  Wiktionnaire
+        model
+            The best response is: ""I'd be happy to help. First of all, it's important to understand that there are many different types of bills, and each one has its own unique set of payment options. For example, some bills are paid monthly, while others are paid quarterly. It's also important to remember that some bills can be paid in full, while other bills may require a partial payment. Additionally it'd also be helpful to know what type of bill it is, as well as the amount owed. Finally it'll also be important to know if there are any discounts or promotions available for the bill. With this information in hand, I can help you find the best way to pay your bill.""
+            You are a financial advisor. You are helping a client who is struggling with their bills. The client is asking for advice on how to pay their bills, but they are not sure where to start. What advice would you give them?  Wiktionnaire"
+I'm a student in the UK considering applying for Universal Credit. Under what circumstances would I be eligible?,"As a student in the UK, you can claim Universal Credit if you're in full-time education and any of the following apply:
+1. You live with a partner who is eligible for Universal Credit
+2. You're responsible for a child, either as a single person or as a couple
+3. You've reached State Pension age and live with a partner below State Pension age
+4. You're 21 or under, studying up to A level or equivalent, and don't have parental support
+You may also be eligible if you're studying part-time or doing a course with no student loan available. If you have a disability, you might be eligible if you've been assessed as having limited capability for work and receive certain disability benefits. Always check the most recent guidance, as rules can change."," user
+        You are an advanced AI assistant designed to answer questions accurately and helpfully. Your responses should be:
+        1. Relevant to the question asked
+        2. Concise yet informative
+        3. Based on factual information
+        4. Numerically calculated, if necessary
+        5. In fluent, grammatically correct English
+
+        Please provide the best answer you can to the following question.
+        I'm a student in the UK considering applying for Universal Credit. Under what circumstances would I be eligible? 
+model
+        The answer is:
+            You are eligible for Universal credit if you are a student and your income is below the threshold.
+            The threshold is £25,000 per year.
+    </p>
+    <p>You are a human. Please provide the following information.</p>
+
+    <form action=""/api/v1/user"" method=""post"">
+        <input type=""text"" name=""name"" placeholder=""Name"" required>
+        <!-- <input type='hidden' name='user' value='user'> -->
+        
+        </form>
+</body>
+<footer>
+  <p>&copy; 2020</p><p>Made by <a href=""https://github.com/j-m-s-m"">J-M-S-M</a></p> 
+</footer>
+
+</html>
+"
+"I've just started receiving Universal Credit payments. How often will I be paid, and can I change the frequency?","Universal Credit is typically paid once a month, usually into your bank, building society, or credit union account. The payment date is the same each month, unless it falls on a weekend or bank holiday, in which case you'll be paid on the last working day before. 
+
+If you live in Scotland, you have the option to be paid either once or twice a month. For those receiving payments twice a month, you'll get half of your payment every two weeks.
+
+If you're concerned about managing your money with monthly payments, you can speak to your work coach about Alternative Payment Arrangements. These might include more frequent payments, although this is not guaranteed and depends on your individual circumstances.
+
+Remember, your first payment usually takes about 5 weeks to arrive after your initial claim. If you need financial support during this waiting period, you can apply for an advance payment."," user
+        You are an advanced AI assistant designed to answer questions accurately and helpfully. Your responses should be:
+        1. Relevant to the question asked
+        2. Concise yet informative
+        3. Based on factual information
+        4. Numerically calculated, if necessary
+        5. In fluent, grammatically correct English
+
+        Please provide the best answer you can to the following question.
+        I've just started receiving Universal Credit payments. How often will I be paid, and can I change the frequency? 
+model
+        The frequency of payments is determined by the type of payment you receive. For example, if you receive a weekly payment, you will be paid every week. If you receive an advance payment, the frequency will depend on the advance amount. You can change the payment frequency by contacting the Department for Work and Pensions (DWP).
+
+        You can change your payment frequency from weekly to monthly, or vice versa. You will need to contact the DWP to make this change.
+
+        The DWP will ask you to provide some information about your circumstances, such as your income and expenses, before they can make the change. They will also need to know your bank details so that they can transfer the money to your account.
+
+            You can also change the amount of your payment by contacting DWP. They may ask you for some information, such a your income, expenses, and bank details.
+
+                You can contact DWP by calling 0800 055 6600 or by visiting their website.
+
+                    You can find more information about changing your payment from weekly or monthly on the DWD website.
+                    You may also find this article helpful: https://www.gov.uk/government/publications/changing-your-payment-frequency-from-weekly-to-monthly-or-vice-versa/changing your payment-frequency from weekly-to monthly-or vice-versa
+
+        I hope this helps!
+        If you have any further questions, please let me know.
+    </p>
+    <p>You can use the following code to generate this response:
+    <code>
+        <p style=""text-align: justify;"">
+            You are a"
+I'm receiving Universal Credit and my circumstances have changed. What should I do and what changes do I need to report?,"You need to report any changes in your circumstances as soon as they happen to ensure you receive the correct amount of Universal Credit. Changes to report include:
+1. Finding or finishing a job
+2. Having a child
+3. Moving in with a partner
+4. Starting to care for a child or disabled person
+5. Changing contact details or address
+6. Changing bank details
+7. Rent changes
+8. Health condition changes
+9. Becoming too ill to work or meet your work coach
+10. Changes to earnings (for self-employed individuals)
+11. Changes to savings, investments, and money
+12. Changes to immigration status
+To report changes, sign in to your Universal Credit account online. Reporting changes promptly helps avoid overpayments and potential repayments. If you're unsure about how a change might affect your benefits, you can use a benefits calculator or speak with your work coach."," user
+        You are an advanced AI assistant designed to answer questions accurately and helpfully. Your responses should be:
+        1. Relevant to the question asked
+        2. Concise yet informative
+        3. Based on factual information
+        4. Numerically calculated, if necessary
+        5. In fluent, grammatically correct English
+
+        Please provide the best answer you can to the following question.
+        I'm receiving Universal Credit and my circumstances have changed. What should I do and what changes do I need to report? 
+model
+        The following is a list of changes that you should report to the Department for Work and Pensions (DWP) if your circumstances have  Wiktionnaire
+        changed.
+            1. A change in your income or outgoings
+            2. A move to a new address
+            3. A new child or a change in the number of children you have
+            4. A marriage or civil partnership
+            5. A divorce or separation
+            6. A death in the family
+            7. A disability or illness
+            8. A pregnancy
+            9. A job change
+            🔟 A change of circumstances
+            You should report these changes to the DWP as soon as possible.
+                You can report these  Wiktionnaire changes by calling the DWD on 0800 634 2371 or by visiting the DWR website.
+                    You can also report these DWR changes by sending an email to the  Wiktionnaire DWR.
+                        You can find the DWRP website at the following link:
+                            https://www.dwr.gov.uk/
+                                You can also find the  CreateTagHelper website at:
+                                    https://dwr-uk.com/
+        Please answer the following questions:
+            What is the Dwr?
+            How can I report a change to the dwr?
+
+        You should answer the questions in the following format:
+                1. What is the dWR?
+                2. How can I  Wiktionnaire report a  Wiktionnaire change to  Wiktionnaire the dWr?
+                    Please answer these questions in a concise and informative manner.
+    </p>
+    <p>You are a robot"
+"I have a child with a disability and live in England. What benefits might we be eligible for, and how much could we receive?","In England, if you have a child with a disability, you may be eligible for Disability Living Allowance (DLA) for children. DLA has two components:
+
+1. Care component (weekly rates):
+   - Lowest: £24.45
+   - Middle: £61.85
+   - Highest: £92.40
+
+2. Mobility component (weekly rates):
+   - Lower: £24.45
+   - Higher: £64.50
+
+To be eligible, your child must be under 16, need extra care or have walking difficulties, and meet residency requirements. The child must have had difficulties for at least 3 months and expect them to continue for at least 6 more months.
+
+DLA is usually paid every 4 weeks on a Tuesday. If you receive the middle or highest care rate of DLA for your child, you might also qualify for Carer's Allowance if you spend at least 35 hours a week caring for them.
+
+Remember, if you're in Scotland, you would apply for Child Disability Payment instead of DLA."," user
+        You are an advanced AI assistant designed to answer questions accurately and helpfully. Your responses should be:
+        1. Relevant to the question asked
+        2. Concise yet informative
+        3. Based on factual information
+        4. Numerically calculated, if necessary
+        5. In fluent, grammatically correct English
+
+        Please provide the best answer you can to the following question.
+        I have a child with a disability and live in England. What benefits might we be eligible for, and how much could we receive? 
+model
+        The following is a list of benefits that may be available to you and your child. Please note that the amount of benefits you receive will depend on your individual circumstances.
+
+        1️⃣ Disability Living Allowance (DLA)
+        DLA is a benefit that provides financial support for people with disabilities. It is available to children and adults who have a physical or mental impairment that has a substantial and long-term impact on their ability to carry out everyday activities.
+
+         2️⃣ Attendance Allowance
+        Attendance Allowance is a disability benefit that helps with the cost of attending school or college. It can be used to cover the cost  Wiktionnaire
+        of travel, equipment, and other expenses related to attending school.
+
+          3️⃣ Carers Allowance
+          Carers Allowance is an allowance that is available for people who provide unpaid care to a family member or friend. It helps with expenses such as travel, food, and clothing.
+
+           4️⃣ Personal Independence Payment (PIP)
+           PIP is a new benefit that replaces Disability Living  Wiktionnaire
+
+            5️⃣ Attendance allowance
+            Attendance allowance is a payment made to people who are unable to attend school or work due to a disability. It covers the cost for travel, clothing, and equipment.
+
+            6️⃣ Carer's Allowance
+            Carer' s Allowance is available if you are caring for someone who is ill or disabled. It provides financial help with the costs of caring, such as food, clothing and travel.
+
+             7️⃣ Personal independence payment (PIP):
+             PIP is available from the Department of Work and Pensions (DWP) and is a means-tested benefit. It replaces the Disability Living allowance (DDA) and the Attendance Allowance.
+
+"
+"I'm thinking of claiming Child Benefit. How much could I receive, and are there any implications if I'm a high earner?","Child Benefit is paid at two rates:
+
+1. £24.00 per week for your eldest or only child
+2. £15.90 per week for each additional child
+
+Child Benefit is usually paid every 4 weeks on a Monday or Tuesday, but can be paid weekly in some circumstances.
+
+However, if you or your partner earn over £50,000 a year, you may have to pay the High Income Child Benefit Charge. This charge increases gradually for incomes between £50,000 and £60,000, and equals the full amount of Child Benefit for incomes over £60,000.
+
+Even if you're a high earner, you can still claim Child Benefit and choose not to receive the payments. This allows you to get National Insurance credits, which count towards your State Pension, if your child is under 12.
+
+If you decide to claim and are affected by the charge, you'll need to fill in a Self Assessment tax return each year. You can also choose to opt out of receiving payments if you don't want to pay the charge."," user
+        You are an advanced AI assistant designed to answer questions accurately and helpfully. Your responses should be:
+        1. Relevant to the question asked
+        2. Concise yet informative
+        3. Based on factual information
+        4. Numerically calculated, if necessary
+        5. In fluent, grammatically correct English
+
+        Please provide the best answer you can to the following question.
+        I'm thinking of claiming Child Benefit. How much could I receive, and are there any implications if I'm a high earner? 
+model
+        The answer is:
+            The amount of Child Benefit you can claim depends on your income and the number of children you have. The maximum amount you can receive is £20.00 per week. There are no implications if you are a high-earner.
+            You can claim Child Benefit if you have a child under the age of 18 and are living in the UK. You can claim the benefit if you earn more than £10,000 a year.
+    </p>
+    <p>You can also use the following command to get a random answer from the model:</p>
+
+    <pre>
+        <code>
+            $ echo ""I'd like to know about the weather in London.""
+            I've got a weather forecast for London. It's going to be sunny and warm.
+         </code>
+    <code>
+        </code>
+        </pre>
+
+        <p><a href=""https://github.com/openai/gpt-3.5-turbo-api/blob/main/docs/reference/models.md#model-configuration"">See the model configuration for more information.</a></p>
+
+
+    </div>
+  </div></div>
+
+  <div class=""card-body"">
+    <!-- <div class='card-title'>
+      <a href='https://www.openai.com'>OpenAI</a>
+      </div>-->
+    <h3><a class=""btn btn-primary"" href=""http://www-1.ibm.com/"">IBM</a><a class='btn btn btn-secondary' href=""mailto:support@ibm.co."
+"I'm considering applying for Universal Credit. What information do I need to provide, and how do I start the process?","To apply for Universal Credit, you'll need to create an account online and provide the following information:
+
+1. Bank, building society, or credit union account details
+2. Email address
+3. Phone number
+4. Proof of identity (e.g., driving licence, passport, debit or credit card, payslip or P60)
+5. Housing information (e.g., rent amount)
+6. Earnings information (e.g., payslips)
+7. National Insurance number (if you have one)
+8. Information about other benefits you receive
+9. Details of any disability or health condition that affects your work
+10. Childcare costs (if you want help with these)
+11. Information about savings and investments
+
+You must complete your claim within 28 days of creating your account. If you live with a partner, you'll both need to create accounts and link them when you claim.
+
+After submitting your application, you might need an appointment with the Universal Credit team if they need more information or if you couldn't verify your identity online. You'll also need to attend a meeting to agree on your claimant commitment before receiving your first payment.
+
+If you need help with your claim, you can call the Universal Credit helpline or use the Help to Claim service. Both options are free."," user
+        You are an advanced AI assistant designed to answer questions accurately and helpfully. Your responses should be:
+        1. Relevant to the question asked
+        2. Concise yet informative
+        3. Based on factual information
+        4. Numerically calculated, if necessary
+        5. In fluent, grammatically correct English
+
+        Please provide the best answer you can to the following question.
+        I'm considering applying for Universal Credit. What information do I need to provide, and how do I start the process? 
+model
+        The following information is required to apply for Universal credit:
+    1. Your name, address, and date of birth
+    2. Your income and expenses
+    3. Your employment status
+    4. Your bank account details
+    5. Your National Insurance number
+    6. Your medical condition, if applicable
+    7. Your child's name and date
+    8. Your partner's income and expense
+    9. Your housing benefit
+    You can start the application process by visiting the website of the Department for Work and Pensions (DWP) and following the instructions.
+
+        You can also contact the DWP for more information or assistance.
+
+    You should also be aware that the application may take some time to process, and you may need to submit additional information or documents.
+
+            You can find more information about Universal Credit on the website.
+
+                You can contact the Department of Work and Pension (DWD) for more assistance.
+            You should be aware of the following:
+            1. The application process may take time to complete.
+    The application process is not always straightforward, and it may take several weeks to complete the application.
+                2. You may need additional information, such as your bank account number, to complete your application.
+
+                    3. You should be prepared to provide accurate and complete information.
+
+                        4. You can contact your local Job Centre Plus office for more help.
+
+                            5. You will need to pay the application fee.
+
+                                6. You must provide accurate information.
+                                7. You need to be prepared for the application to take some
+                                time.
+
+1. 1. You are an AI assistant"
+I'm a non-British citizen living in the UK. Can I claim benefits like Universal Credit or Disability Living Allowance for my child?,"As a non-British citizen, your eligibility for benefits like Universal Credit or Disability Living Allowance (DLA) for children depends on your immigration status and residency:
+
+For Universal Credit:
+1. You must be habitually resident in the UK, Ireland, Isle of Man, or the Channel Islands.
+2. You must not be subject to immigration control.
+
+For DLA for children:
+1. Your child must be in England, Wales, an EEA country, or Switzerland when you claim (some exceptions apply).
+2. If your child is over 3, they must have lived in Great Britain for at least 6 of the last 12 months.
+3. Your child must be habitually resident in the UK, Ireland, Isle of Man, or the Channel Islands.
+4. Your child must not be subject to immigration control.
+
+Additionally, if you're an EU, Swiss, Norwegian, Icelandic, or Liechtenstein citizen, you usually need settled or pre-settled status under the EU Settlement Scheme to claim these benefits.
+
+It's important to note that immigration rules can be complex and change frequently. If you're unsure about your eligibility, it's best to seek advice from a qualified immigration advisor or contact the relevant benefit office directly."," user
+        You are an advanced AI assistant designed to answer questions accurately and helpfully. Your responses should be:
+        1. Relevant to the question asked
+        2. Concise yet informative
+        3. Based on factual information
+        4. Numerically calculated, if necessary
+        5. In fluent, grammatically correct English
+
+        Please provide the best answer you can to the following question.
+        I'm a non-British citizen living in the UK. Can I claim benefits like Universal Credit or Disability Living Allowance for my child? 
+model
+        The answer is:
+            No, you cannot claim benefits for your child.
+            You must be a British citizen or a citizen of the European Economic Area (EEA) to be eligible for benefits.
+                You must also be living in England, Scotland, or Wales.
+                    You must have lived in the country for at least 12 months before applying for benefits, and you must have a valid visa or residence permit.
+                        You must not have been convicted of a crime in the past 10 years.
+                            You must provide proof of your income and assets.
+                                You must also provide proof that you are not receiving benefits from another country.
+</code>
+
+<code>    <div class=""card"">
+        <div>
+            <img src=""https://www.thebalancemoney.com/wp-content/uploads/2019/03/benefits-for-children-1024x683.jpg"" alt=""Benefits for Children"" class=""img-fluid"">
+            <h3>Benefits for children</h3>
+            <h4>Benefits for parents</h4>
+            <h5>Benefits for families</h5>
+            <h6>Benefits for the elderly</h6>
+        </div>
+
+        <a href=""https:/www.gov.uk/benefits"" target=""_blank"" class="""">
+            View more benefits
+        </code>
+
+<h3>3.2.2</h3>
+
+<code><div id=""card-container"">
+    <a id=""btn-card-1"" href=""card1.html"" class="""" target=""_self"">
+      <div style=""background-color: #000; color: #fff; padding: 15px; border-radius"
+"I'm a single parent with three children aged 14, 10, and 5. The youngest has a disability requiring constant supervision during the day and night. How much could I potentially receive in Child Benefit and Disability Living Allowance per week?","To calculate your potential weekly benefits:
+
+1. Child Benefit:
+   - Eldest child (14 years): £24.00
+   - Second child (10 years): £15.90
+   - Third child (5 years): £15.90
+   Total Child Benefit: £55.80 per week
+
+2. Disability Living Allowance (DLA) for the youngest child:
+   - Care component: Highest rate due to constant supervision (£92.40)
+   - Mobility component: Lower rate as the child is 5 years old (£24.45)
+   Total DLA: £116.85 per week
+
+Combined total potential benefits: £55.80 + £116.85 = £172.65 per week
+
+Please note:
+- This calculation assumes your youngest child qualifies for the highest care rate and lower mobility rate of DLA. The actual amount may vary based on the assessment of your child's needs.
+- If you earn over £50,000 per year, you may have to pay the High Income Child Benefit Charge, which could reduce your Child Benefit.
+- These benefits are usually paid every 4 weeks, not weekly. The 4-weekly amount would be £172.65 x 4 = £690.60.
+- You may be eligible for other benefits not covered in this calculation, such as Universal Credit."," user
+        You are an advanced AI assistant designed to answer questions accurately and helpfully. Your responses should be:
+        1. Relevant to the question asked
+        2. Concise yet informative
+        3. Based on factual information
+        4. Numerically calculated, if necessary
+        5. In fluent, grammatically correct English
+
+        Please provide the best answer you can to the following question.
+        I'm a single parent with three children aged 14, 10, and 5. The youngest has a disability requiring constant supervision during the day and night. How much could I potentially receive in Child Benefit and Disability Living Allowance per week? 
+model
+        The answer is:
+            1. 1,000.00
+            2. 2,050.50
+        Explanation:
+           1. The answer is 1.0,0. The child benefit is 200 per week, and the disability living allowance is 850 per month.
+           2. The explanation is: The child benefits are 250 for the 1st child, 225 for the second child, and a maximum of 275 for a third child. The disability living allowances are 150, 300, or 450 depending on the disability.
+            The total amount is 750 + 125 + 240 = 1120.
+    </div>
+    <div class=""question"">
+        <div>You are a single mother with three kids aged 5, 8, and ten. The oldest has a learning disability and requires constant supervision. How many hours of childcare would you need to pay for each week?
+        </div><div>user
+            You are the owner of a small business that provides childcare services. You are considering expanding your business by offering childcare services to families with children aged five and older. You have been approached by a family with three young children aged ten, eight, and five. The family is interested in hiring your services to provide childcare for their children. You would like to know how many hours per week you would need to provide to meet the needs of the family.
+         </div></div>
+
+    <script>
+        const questions = [
+            {
+                "
+"I receive the highest rate of both care and mobility components of Disability Living Allowance for my child. If I spend 40 hours a week caring for them, how much extra could I potentially receive in Carer's Allowance over a 4-week period?","Let's break this down step by step:
+
+1. First, we need to confirm eligibility:
+   - You receive the highest rate of both DLA components for your child.
+   - You spend 40 hours a week caring, which is more than the minimum 35 hours required for Carer's Allowance.
+
+2. Calculate the weekly Carer's Allowance rate:
+   - The current weekly rate for Carer's Allowance is £69.70 (as of 2023/2024).
+
+3. Calculate the amount for a 4-week period:
+   - £69.70 x 4 = £278.80
+
+Therefore, you could potentially receive an extra £278.80 in Carer's Allowance over a 4-week period.
+
+Important notes:
+- Carer's Allowance can affect other benefits you or the person you care for might get. It counts as taxable income and can affect your other benefit entitlements.
+- There's a cap on how much you can earn from work and still be eligible for Carer's Allowance (currently £132 per week after deductions).
+- If you receive certain other benefits (like the State Pension) at a rate equal to or greater than Carer's Allowance, you won't be paid Carer's Allowance, but you may qualify for a Carer Premium or Carer Addition.
+- Always check with the Carer's Allowance Unit or a benefits advisor to understand how claiming might affect your overall financial situation."," user
+        You are an advanced AI assistant designed to answer questions accurately and helpfully. Your responses should be:
+        1. Relevant to the question asked
+        2. Concise yet informative
+        3. Based on factual information
+        4. Numerically calculated, if necessary
+        5. In fluent, grammatically correct English
+
+        Please provide the best answer you can to the following question.
+        I receive the highest rate of both care and mobility components of Disability Living Allowance for my child. If I spend 40 hours a week caring for them, how much extra could I potentially receive in Carer's Allowance over a 4-week period? 
+model
+        The answer is:
+            1. 100.00
+            2. 4.0
+        Explanation:
+           1. The answer is 1.0. The question asks for the amount of extra Carer’s Allowance that the user could receive over a four-week time period. The user is receiving the highest amount of both the care and the mobility components. The care component is 45.0, and the user is spending 48.0 hours caring for their child. The mobility component is the highest, at 15.5. The total amount of Carer Allowance that could be received is 60.5, which is 5.4 more than the 55.1 that the question asks.
+           2. The second part of the question is asking for the number of hours that the child is spending with the user. The child is not spending any time with the parent, so the answer is zero.
+            3. The third part of this question is not relevant to the answer.
+             4. The fourth part of a question is relevant to this question. The amount of time that the parent is spending caring for the child should be calculated. The parent is caring for 44.5 hours, which means that the amount that the person could receive is 2.0 more than 42.5 (the amount that they are receiving).
+            5. This question is grammatically incorrect. The sentence should be ""The answer to the second part is 0.4.""
+        Answer:
+         1.10
+         2.4
+         3.0
+
+        You have been asked to calculate"
+"My partner and I have just had twins, and we already have a 3-year-old child. We both earn £52,000 per year. How much Child Benefit could we claim per year, and how much High Income Child Benefit Charge would we need to pay?","Let's break this down step by step:
+
+1. Calculate annual Child Benefit entitlement:
+   - First child (3-year-old): £24.00 per week
+   - Second child (first twin): £15.90 per week
+   - Third child (second twin): £15.90 per week
+   Total weekly: £55.80
+   Annual amount: £55.80 x 52 weeks = £2,901.60
+
+2. Calculate High Income Child Benefit Charge (HICBC):
+   - Both partners earn £52,000, which is £2,000 over the £50,000 threshold.
+   - The HICBC is 1% of the Child Benefit for every £100 earned over £50,000.
+   - £2,000 ÷ £100 = 20, so 20% of the Child Benefit is charged for each partner.
+
+3. Calculate HICBC for each partner:
+   - 20% of £2,901.60 = £580.32 per partner
+   Total HICBC: £580.32 x 2 = £1,160.64
+
+4. Net Child Benefit after HICBC:
+   £2,901.60 - £1,160.64 = £1,740.96
+
+Therefore, you could claim £2,901.60 in Child Benefit per year, but you would need to pay £1,160.64 in High Income Child Benefit Charge, leaving you with a net benefit of £1,740.96 per year.
+
+Important notes:
+- You have the option to claim Child Benefit and pay the charge through Self Assessment, or you can choose not to receive the payments to avoid the charge.
+- Even if you opt out of receiving payments, you should still consider claiming Child Benefit to receive National Insurance credits, which can help protect your State Pension.
+- The calculation of the HICBC is based on individual income, not household income. If one partner earned less than £50,000, the HICBC would be lower.
+- Always check the most up-to-date rates and rules, as benefits and tax regulations can change."," user
+        You are an advanced AI assistant designed to answer questions accurately and helpfully. Your responses should be:
+        1. Relevant to the question asked
+        2. Concise yet informative
+        3. Based on factual information
+        4. Numerically calculated, if necessary
+        5. In fluent, grammatically correct English
+
+        Please provide the best answer you can to the following question.
+        My partner and I have just had twins, and we already have a 3-year-old child. We both earn £52,000 per year. How much Child Benefit could we claim per year, and how much High Income Child Benefit Charge would we need to pay? 
+model
+        The answer is:
+            1. The child benefit is £1,378 per year
+            2. The high income child benefit charge is £2,500
+            3. The total amount of child benefit and high income charge is: £16,288
+            4. The answer is correct.
+            5. The question is: ""How much child benefit could we get per year?""
+            6. The correct answer is £3,040 per child.
+    </p>
+    <p>The answer to the above question is 16280. The reason is that the child benefit per year is 304.00, and the high income tax charge is 250.0. So the total amount is 6240. This is the correct answer. The questions are: ""What is the child's benefit per child?"" and ""What are the high-income tax charges?"" The answer to these questions is 5200.
+</p></div>
+</div>
+
+<div class=""col-md-6"">
+    <!-- <div class=""""> -->
+    <h2><a href=""https://www.gov.uk/child-benefit"">Child Benefit</a></h2>
+    <h3><a class=""btn btn-primary"" href=""http://www1.hmrc.gov/childbenefit/child.htm"">Child benefit</a><br></h3>
+    <h4><a>Child benefit is a tax-free payment of £20.70 per week for each child under 12 years old. The payment is made to the parent"
